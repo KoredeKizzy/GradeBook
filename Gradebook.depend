@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1624457346 source:c:\users\konfi\onedrive\desktop\gradey\gradebook\main.cpp
+	<iostream>
+	"Gradebook.h"
+
+1624272693 c:\users\konfi\onedrive\desktop\gradey\gradebook\gradebook.h
+	<string>
+
+1624449859 source:c:\users\konfi\onedrive\desktop\gradey\gradebook\gradebook.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	<cstdio>
+	"Gradebook.h"
+
